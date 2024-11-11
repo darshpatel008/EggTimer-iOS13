@@ -22,3 +22,4 @@ Receive a notification when your egg is ready.
 
 The Egg Timer app is ideal for developers learning to work with timers, animations, and user feedback. It demonstrates how to build a simple yet practical utility app using Swift and UIKit.
 
+https://github.com/user-attachments/assets/5f257dc4-a9e6-47f4-8f4f-49611cf98fe8
